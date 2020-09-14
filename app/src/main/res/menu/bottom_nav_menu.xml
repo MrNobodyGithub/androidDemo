@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@mipmap/login_user"
+        android:title="home"
+        />
+    <item
+        android:id="@+id/navigation_me"
+        android:icon="@mipmap/login_pw"
+        android:title="me"/>
+
+
+
+</menu>
